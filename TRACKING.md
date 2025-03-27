@@ -2,14 +2,60 @@
 
 - [x] Begineer Problems
   - [x] Language Basics
+    - [x] CPP Setup
+    - [x] CPP Basics
+    - [x] Java Setup
+    - [x] Java Basics
+    - [x] Java OOPs Basics
+    - [x] Input Output
+    - [x] If Else Adult Teen Problem
+    - [x] If Elseif
+    - [x] Switch Case
+    - [x] Sum of first last element in array
+    - [x] Print X N number of times
+    - [x] Print last character of string
   - [x] Logic Building (Patterns)
+    - [x] Easy and Medium
+    - [x] Hard
   - [x] Patterns
+    - [x] Pattern 1
+    - [x] Pattern 2
+    - [x] Pattern 3
+    - [x] Pattern 4
+    - [x] Pattern 5
+    - [x] Pattern 6
+    - [x] Pattern 7
+    - [x] Pattern 8
+    - [x] Pattern 9
+    - [x] Pattern 10
+    - [x] Pattern 11
+    - [x] Pattern 12
+    - [x] Pattern 13
+    - [x] Pattern 14
+    - [x] Pattern 15
+    - [x] Pattern 16
+    - [x] Pattern 17
+    - [x] Pattern 18
+    - [x] Pattern 19
+    - [x] Pattern 20
+    - [x] Pattern 21
+    - [x] Pattern 22
   - [x] Time Complexity
+    - [x] Theory with examples
   - [x] STL and Collections
+    - [x] STL
+    - [x] Java Collections
   - [x] Concept Basics
+    - [x] Basic Maths
+    - [x] Basic Arrays
+    - [x] Basic Hashing
+    - [x] Basic String
   - [x] Basic Maths
   - [x] Basic Arrays
   - [x] Basic Hashing
+    - [x] Highest occuring element in an array
+    - [x] Second highest occuring element
+    - [x] Sum of the highest and lowest frequency
   - [x] Basic Strings
   - [x] Basic Recursion
 - [x] Sorting
