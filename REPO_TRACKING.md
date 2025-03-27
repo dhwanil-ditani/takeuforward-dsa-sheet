@@ -31,7 +31,7 @@
     - [ ] Remove duplicates from sorted array
     - [ ] Find missing number
     - [x] Union of two sorted arrays
-    - [ ] Intersection of two sorted arrays
+    - [x] Intersection of two sorted arrays
   - [ ] FAQs(Medium)
   - [ ] FAQs(Hard)
 - [ ] Hashing
