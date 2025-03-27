@@ -1,9 +1,31 @@
 # Tracking
 
-- [ ] Begineer Problems
-- [ ] Sorting
+- [x] Begineer Problems
+  - [x] Language Basics
+  - [x] Logic Building (Patterns)
+  - [x] Patterns
+  - [x] Time Complexity
+  - [x] STL and Collections
+  - [x] Concept Basics
+  - [x] Basic Maths
+  - [x] Basic Arrays
+  - [x] Basic Hashing
+  - [x] Basic Strings
+  - [x] Basic Recursion
+- [x] Sorting
+  - [x] Algorithms
+    - [x] Selection Sort
+    - [x] Bubble Sort
+    - [x] Insertion Sort
+    - [x] Merge Sort
 - [ ] Arrays
-  - [ ] Fundamentals
+  - [x] Fundamentals
+    - [x] Linear Search
+    - [x] Largest Element
+    - [x] Second Largest Element
+    - [x] Maximum Consecutive Ones
+    - [x] Left Rotate Array by One
+    - [x] Left Rotate Array by K Places
   - [ ] Logic Building
     - [x] Move Zeros to End
     - [x] Remove duplicates from sorted array

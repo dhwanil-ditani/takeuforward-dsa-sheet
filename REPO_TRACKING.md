@@ -1,0 +1,40 @@
+# Tracking
+
+- [ ] Begineer Problems
+  - [ ] Language Basics
+  - [ ] Logic Building (Patterns)
+  - [ ] Patterns
+  - [ ] Time Complexity
+  - [ ] STL and Collections
+  - [ ] Concept Basics
+  - [ ] Basic Maths
+  - [ ] Basic Arrays
+  - [ ] Basic Hashing
+  - [ ] Basic Strings
+  - [ ] Basic Recursion
+- [ ] Sorting
+  - [ ] Algorithms
+    - [ ] Selection Sort
+    - [ ] Bubble Sort
+    - [ ] Insertion Sort
+    - [ ] Merge Sort
+- [ ] Arrays
+  - [ ] Fundamentals
+    - [ ] Linear Search
+    - [ ] Largest Element
+    - [ ] Second Largest Element
+    - [ ] Maximum Consecutive Ones
+    - [ ] Left Rotate Array by One
+    - [ ] Left Rotate Array by K Places
+  - [ ] Logic Building
+    - [ ] Move Zeros to End
+    - [ ] Remove duplicates from sorted array
+    - [ ] Find missing number
+    - [x] Union of two sorted arrays
+    - [ ] Intersection of two sorted arrays
+  - [ ] FAQs(Medium)
+  - [ ] FAQs(Hard)
+- [ ] Hashing
+  - [ ] FAQs
+- [ ] Binary Search
+- [ ] Recursion
