@@ -3,6 +3,6 @@
     "terminal.integrated.fontSize": 22,
     "git.confirmSync": false,
     "git.autofetch": true,
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
     "redhat.telemetry.enabled": false
 }
