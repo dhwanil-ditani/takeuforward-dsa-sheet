@@ -86,7 +86,7 @@
     - [x] Pascal's Triangle II
     - [x] Pascal's Triangle III
     - [x] Rotate matrix by 90 degrees
-    - [ ] Two Sum
+    - [x] Two Sum
     - [ ] 3 Sum
     - [ ] 4 Sum
     - [ ] Sort an array of 0's, 1's and 2's
@@ -96,3 +96,20 @@
   - [ ] FAQs
 - [ ] Binary Search
 - [ ] Recursion
+- [ ] Linked-List
+- [ ] Bit Manipulation
+- [ ] Greedy Algorithm
+  - [ ] Easy
+    - [x] Assign Cookies
+    - [ ] lemonade Change
+    - [ ] Jump Game - I
+- [ ] Sliding Window / 2 - Pointer
+- [ ] Stack / Queue
+- [ ] Binary Trees
+- [ ] Binary Search Trees
+- [ ] Heaps
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Tries
+- [ ] Strings (Advanced Algo)
+- [ ] Maths
