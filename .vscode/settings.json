@@ -2,5 +2,7 @@
     "editor.fontSize": 22,
     "terminal.integrated.fontSize": 22,
     "git.confirmSync": false,
-    "git.autofetch": true
+    "git.autofetch": true,
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "redhat.telemetry.enabled": false
 }
