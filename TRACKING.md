@@ -84,8 +84,8 @@
     - [x] Print the matrix in spiral manner
     - [x] Pascal's Triangle I
     - [x] Pascal's Triangle II
-    - [ ] Pascal's Triangle III
-    - [ ] Rotate matrix by 90 degrees
+    - [x] Pascal's Triangle III
+    - [x] Rotate matrix by 90 degrees
     - [ ] Two Sum
     - [ ] 3 Sum
     - [ ] 4 Sum
