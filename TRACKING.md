@@ -77,8 +77,20 @@
     - [x] Remove duplicates from sorted array
     - [x] Find missing number
     - [x] Union of two sorted arrays
-    - [ ] Intersection of two sorted arrays
+    - [x] Intersection of two sorted arrays
   - [ ] FAQs(Medium)
+    - [x] Leaders in an Array
+    - [x] Rearrange array elements by sign
+    - [x] Print the matrix in spiral manner
+    - [x] Pascal's Triangle I
+    - [x] Pascal's Triangle II
+    - [ ] Pascal's Triangle III
+    - [ ] Rotate matrix by 90 degrees
+    - [ ] Two Sum
+    - [ ] 3 Sum
+    - [ ] 4 Sum
+    - [ ] Sort an array of 0's, 1's and 2's
+    - [ ] Kadane's Algorithm
   - [ ] FAQs(Hard)
 - [ ] Hashing
   - [ ] FAQs
