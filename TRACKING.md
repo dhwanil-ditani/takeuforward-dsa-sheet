@@ -106,6 +106,17 @@
 - [ ] Sliding Window / 2 - Pointer
 - [ ] Stack / Queue
 - [ ] Binary Trees
+  - [ ] Theory / Traversals
+    - [ ] Introduction
+    - [ ] Inorder Traversal
+    - [ ] Preorder Traversal
+    - [ ] Postorder Traversal
+    - [ ] Level Order Traversal
+    - [ ] Pre, Post, Inorder in one traversal
+  - [ ] Medium Problems
+  - [ ] FAQs
+  - [ ] Construction Problems
+  - [ ] Traversal in Constant Space
 - [ ] Binary Search Trees
 - [ ] Heaps
 - [ ] Graphs

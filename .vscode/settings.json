@@ -4,5 +4,6 @@
     "git.confirmSync": false,
     "git.autofetch": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    "github.copilot.editor.enableAutoCompletions": false,
 }
