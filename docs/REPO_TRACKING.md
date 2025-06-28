@@ -12,10 +12,10 @@
   - [ ] Basic Hashing
   - [ ] Basic Strings
   - [ ] Basic Recursion
-- [ ] Sorting
-  - [ ] Algorithms
-    - [ ] Selection Sort
-    - [ ] Bubble Sort
+- [x] [Sorting](Sorting/)
+  - [x] [Algorithms](Sorting/Algorithms/)
+    - [x] [Selection Sort](Sorting/Algorithms/SelectionSort.java)
+    - [x] [Bubble Sort](Sorting/Algorithms/BubbleSort.java)
     - [ ] Insertion Sort
     - [ ] Merge Sort
 - [ ] Arrays
