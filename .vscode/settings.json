@@ -5,5 +5,6 @@
     "git.autofetch": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "redhat.telemetry.enabled": false,
-    "java.server.launchMode": "LightWeight"
+    "java.server.launchMode": "LightWeight",
+    "editor.formatOnSave": true
 }

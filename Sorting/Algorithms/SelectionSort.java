@@ -5,9 +5,16 @@
  * element from the unsorted part and putting it at the beginning. The largest
  * element will end up at the last index of the array.
  * </p>
- * <h3>Pseudocode</h3>
+ * <h3>Approach</h3>
  * <p>
- * 
+ * <ul>
+ * <li>Select the starting index of the unsorted part using a loop with i from 0
+ * to n-1.</li>
+ * <li>Find the smallest element in the range from i to n-1 using an inner
+ * loop.</li>
+ * <li>Swap this smallest element with the element at index i.</li>
+ * <li>Repeat the process for the next starting index.</li>
+ * </ul>
  * </p>
  */
 class Solution {
