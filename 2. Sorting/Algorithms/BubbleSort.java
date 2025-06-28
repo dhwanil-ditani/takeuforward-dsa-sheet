@@ -1,15 +1,13 @@
 class Solution {
-    public int[] selectionSort(int[] nums) {
+    public int[] bubbleSort(int[] nums) {
         int n = nums.length;
-        
+
         for (int i=0; i<n; i++) {
-            int minIdx = i;
-            for (int j=i; j<n; j++) {
-                if (nums[j] < nums[minIdx]) {
-                    minIdx = j;
+            for (int j=0; j<(n-i-1); j++) {
+                if (nums[j] > nums[j+1]) {
+                    swap(nums, j, j+1);
                 }
             }
-            if (minIdx != i) swap(nums, i, minIdx);
         }
 
         return nums;
@@ -22,7 +20,7 @@ class Solution {
     }
 }
 
-public class SelectionSort {
+public class BubbleSort {
+
     
 }
-

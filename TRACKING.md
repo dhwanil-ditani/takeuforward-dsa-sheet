@@ -58,13 +58,13 @@
     - [x] Sum of the highest and lowest frequency
   - [x] Basic Strings
   - [x] Basic Recursion
-- [x] Sorting
-  - [x] Algorithms
-    - [x] Selection Sort
+- [x] [Sorting](2.%20Sorting/)
+  - [x] [Algorithms](2.%20Sorting/Algorithms/)
+    - [x] [Selection Sort](2.%20Sorting/Algorithms/SelectionSort.java)
     - [x] Bubble Sort
     - [x] Insertion Sort
     - [x] Merge Sort
-- [ ] Arrays
+- [x] Arrays
   - [x] Fundamentals
     - [x] Linear Search
     - [x] Largest Element
@@ -72,13 +72,13 @@
     - [x] Maximum Consecutive Ones
     - [x] Left Rotate Array by One
     - [x] Left Rotate Array by K Places
-  - [ ] Logic Building
+  - [x] Logic Building
     - [x] Move Zeros to End
     - [x] Remove duplicates from sorted array
     - [x] Find missing number
     - [x] Union of two sorted arrays
     - [x] Intersection of two sorted arrays
-  - [ ] FAQs(Medium)
+  - [x] FAQs(Medium)
     - [x] Leaders in an Array
     - [x] Rearrange array elements by sign
     - [x] Print the matrix in spiral manner
@@ -87,12 +87,12 @@
     - [x] Pascal's Triangle III
     - [x] Rotate matrix by 90 degrees
     - [x] Two Sum
-    - [ ] 3 Sum
-    - [ ] 4 Sum
-    - [ ] Sort an array of 0's, 1's and 2's
-    - [ ] Kadane's Algorithm
-  - [ ] FAQs(Hard)
-- [ ] Hashing
+    - [x] 3 Sum
+    - [x] 4 Sum
+    - [x] Sort an array of 0's, 1's and 2's
+    - [x] Kadane's Algorithm
+  - [x] FAQs(Hard)
+- [x] Hashing
   - [ ] FAQs
 - [ ] Binary Search
 - [ ] Recursion
