@@ -5,5 +5,5 @@
     "git.autofetch": true,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "redhat.telemetry.enabled": false,
-    "github.copilot.editor.enableAutoCompletions": false,
+    "java.server.launchMode": "LightWeight"
 }
