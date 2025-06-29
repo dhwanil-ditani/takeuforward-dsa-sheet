@@ -6,7 +6,7 @@
  * end of the array with each pass.
  * </p>
  * <h3>Approach</h3>
- * <li></li>
+ * <li>For</li>
  * <li></li>
  * <li></li>
  * <li></li>
