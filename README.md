@@ -3,7 +3,7 @@
 - [ ] [Beginner Problems](Begineer%20Problems/)
 - [ ] [Sorting](Sorting/)
   - [ ] [Algorithms](Sorting/Algorithms/)
-    - [x] [Selection Sort](Sorting/Algorithms/SelectionSort.java)
+    - [x] [Selection Sort](Sorting/Algorithms/Selection%20Sort/)
     - [x] [Bubble Sort](Sorting/Algorithms/BubbleSort.java)
     - [ ] [Insertion Sort](Sorting/Algorithms/InsertionSort.java)
     - [ ] [Merge Sort](Sorting/Algorithms/MergeSort.java)
