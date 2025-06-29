@@ -1,19 +1,4 @@
-/**
- * <h3>Intuition</h3>
- * <p>
- * The bubble sort algorithm sorts an array by repeatedly swapping adjacent
- * elements if they are in the wrong order. The largest elements "bubble" to the
- * end of the array with each pass.
- * </p>
- * <h3>Approach</h3>
- * <li>For</li>
- * <li></li>
- * <li></li>
- * <li></li>
- * <p>
- * </p>
- */
-class Solution {
+public class Solution {
     public int[] bubbleSort(int[] nums) {
         int n = nums.length;
 
@@ -33,8 +18,4 @@ class Solution {
         nums[i] = nums[j];
         nums[j] = temp;
     }
-}
-
-public class BubbleSort {
-
 }
