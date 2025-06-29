@@ -7,4 +7,6 @@ The selection sort algorithm sorts an array by repeatedly finding the minimum el
 - Note: Here we are tracking the beginning of the unsorted section because after each iteration of the inner loop,
 
 
-### Code: [Java](Solution.java)
+### Code: 
+| [Java](Solution.java) |
+| --------------------- |
