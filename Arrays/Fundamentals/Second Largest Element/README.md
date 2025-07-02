@@ -3,7 +3,6 @@
 # Approach
 
 ### Code:
-
 | Solutions |                      |
 | --------- | -------------------- |
 | Brute     | [Java](Brute.java)   |

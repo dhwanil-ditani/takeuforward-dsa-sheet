@@ -1,4 +1,4 @@
-class Solution {
+public class Solution {
     public int[] insertionSort(int[] nums) {
         int n = nums.length;
 
@@ -17,8 +17,4 @@ class Solution {
 
         return nums;
     }
-}
-
-public class InsertionSort {
-
 }
