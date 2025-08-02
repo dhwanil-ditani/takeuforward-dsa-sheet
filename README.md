@@ -4,6 +4,11 @@
   - [ ] Language Basics
   - [ ] Logic Building (Patterns)
   - [ ] [Patterns](Begineer%20Problems/Patterns/)
+    - [ ] [Pattern 1](Begineer%20Problems/Patterns/Pattern%201/)
+    - [ ] Pattern 2
+    - [ ] Pattern 3
+    - [ ] Pattern 4
+    - [ ] Pattern 5
   - [ ] Time Complexity
   - [ ] STL and Collections
   - [ ] Concept Basics
