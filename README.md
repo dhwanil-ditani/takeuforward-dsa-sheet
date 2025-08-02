@@ -7,11 +7,11 @@
   - [ ] Time Complexity
   - [ ] STL and Collections
   - [ ] Concept Basics
-  - [ ] Basic Maths
-  - [ ] Basic Arrays
-  - [ ] Basic Hashing
-  - [ ] Basic Strings
-  - [ ] Basic Recursion
+  - [ ] [Basic Maths](Begineer%20Problems/Basic%20Maths/)
+  - [ ] [Basic Arrays](Begineer%20Problems/Basic%20Arrays/)
+  - [ ] [Basic Hashing](Begineer%20Problems/Basic%20Hashing/)
+  - [ ] [Basic Strings](Begineer%20Problems/Basic%20Strings/)
+  - [ ] [Basic Recursion](Begineer%20Problems/Basic%20Recursion/)
 - [ ] [Sorting](Sorting/)
   - [ ] [Algorithms](Sorting/Algorithms/)
     - [x] [Selection Sort](Sorting/Algorithms/Selection%20Sort/)
