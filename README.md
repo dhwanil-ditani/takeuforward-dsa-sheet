@@ -5,10 +5,27 @@
   - [ ] Logic Building (Patterns)
   - [ ] [Patterns](Begineer%20Problems/Patterns/)
     - [ ] [Pattern 1](Begineer%20Problems/Patterns/Pattern%201/)
-    - [ ] Pattern 2
-    - [ ] Pattern 3
-    - [ ] Pattern 4
-    - [ ] Pattern 5
+    - [ ] [Pattern 2](Begineer%20Problems/Patterns/Pattern%202/)
+    - [ ] [Pattern 3](Begineer%20Problems/Patterns/Pattern%203/)
+    - [ ] [Pattern 4](Begineer%20Problems/Patterns/Pattern%204/)
+    - [ ] [Pattern 5](Begineer%20Problems/Patterns/Pattern%205/)
+    - [ ] Pattern 6
+    - [ ] Pattern 7
+    - [ ] Pattern 8
+    - [ ] Pattern 9
+    - [ ] Pattern 10
+    - [ ] Pattern 11
+    - [ ] Pattern 12
+    - [ ] Pattern 13
+    - [ ] Pattern 14
+    - [ ] Pattern 15
+    - [ ] Pattern 16
+    - [ ] Pattern 17
+    - [ ] Pattern 18
+    - [ ] Pattern 19
+    - [ ] Pattern 20
+    - [ ] Pattern 21
+    - [ ] Pattern 22
   - [ ] Time Complexity
   - [ ] STL and Collections
   - [ ] Concept Basics
