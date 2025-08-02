@@ -30,8 +30,28 @@
   - [ ] STL and Collections
   - [ ] Concept Basics
   - [ ] [Basic Maths](Begineer%20Problems/Basic%20Maths/)
+    - [ ] [Count all digits of a number](Begineer%20Problems/Basic%20Maths/Count%20all%20digits%20of%20a%20number/)
+    - [ ] [Count number of odd digits in a number](Begineer%20Problems/Basic%20Maths/Count%20number%20of%20odd%20digits%20in%20a%20number/)
+    - [ ] [Reverse a number](Begineer%20Problems/Basic%20Maths/Reverse%20a%20number/)
+    - [ ] Palindrome Number
+    - [ ] Return the largest digit in a number
+    - [ ] Factorial of a given number
+    - [ ] Check if the number is Armstrong
+    - [ ] Check for perfect number
+    - [ ] Check for prime number
+    - [ ] Count of prime numbers till N
+    - [ ] GCD of two numbers
+    - [ ] LCM of two numbers
+    - [ ] Divisors of a number
   - [ ] [Basic Arrays](Begineer%20Problems/Basic%20Arrays/)
+    - [ ] Sum of array elements
+    - [ ] Count of odd numbers
+    - [ ] Check if the array is sorted - I
+    - [ ] Reverse an array
   - [ ] [Basic Hashing](Begineer%20Problems/Basic%20Hashing/)
+    - [ ] Highest occrring element in an array
+    - [ ] Second highest occurring element
+    - [ ] Sum of highest and lowest frequency
   - [ ] [Basic Strings](Begineer%20Problems/Basic%20Strings/)
   - [ ] [Basic Recursion](Begineer%20Problems/Basic%20Recursion/)
 - [ ] [Sorting](Sorting/)
