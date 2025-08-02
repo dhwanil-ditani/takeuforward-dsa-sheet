@@ -1,6 +1,17 @@
 # My TUF-Plus Solutions
 
 - [ ] [Beginner Problems](Begineer%20Problems/)
+  - [ ] Language Basics
+  - [ ] Logic Building (Patterns)
+  - [ ] [Patterns](Begineer%20Problems/Patterns/)
+  - [ ] Time Complexity
+  - [ ] STL and Collections
+  - [ ] Concept Basics
+  - [ ] Basic Maths
+  - [ ] Basic Arrays
+  - [ ] Basic Hashing
+  - [ ] Basic Strings
+  - [ ] Basic Recursion
 - [ ] [Sorting](Sorting/)
   - [ ] [Algorithms](Sorting/Algorithms/)
     - [x] [Selection Sort](Sorting/Algorithms/Selection%20Sort/)
