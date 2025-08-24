@@ -4,6 +4,12 @@
 - [ ] Sorting
 - [ ] [Arrays](Arrays/)
   - [ ] [Fundamentals](Arrays/Fundamentals/)
+    - [ ] [Linear Search](Arrays/Fundamentals/Linear%20Search/)
+    - [ ] [Largest Element](Arrays/Fundamentals/Largest%20Element/)
+    - [ ] [Second Largest Element](Arrays/Fundamentals/Second%20Largest%20Element/)
+    - [ ] [Maximum Consecutive Ones](Arrays/Fundamentals/Maximum%20Consecutive%20Ones/)
+    - [ ] [Left Rotate Array by One](Arrays/Fundamentals/Left%20Rotate%20Array%20by%20One/)
+    - [ ] [Left Rotate Array by K Places](Arrays/Fundamentals/Left%20Rotate%20Array%20by%20K%20Places/)
   - [ ] [Logic Building](Arrays/Logic%20Building/)
   - [ ] [FAQs (Medium)](Arrays/FAQs%20(Medium)/)
   - [ ] [FAQs (Hard)](Arrays/FAQs%20(Hard)/)
