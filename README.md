@@ -1,0 +1,42 @@
+# My TUF-Plus Solutions
+
+- [ ] Beginner Problems
+- [ ] Sorting
+- [ ] [Arrays](Arrays/)
+  - [ ] [Fundamentals](Arrays/Fundamentals/)
+  - [ ] [Logic Building](Arrays/Logic%20Building/)
+  - [ ] [FAQs (Medium)](Arrays/FAQs%20(Medium)/)
+  - [ ] [FAQs (Hard)](Arrays/FAQs%20(Hard)/)
+- [ ] Hashing
+  - [ ] FAQs
+- [ ] Binary Search
+  - [ ] Fundamentals
+  - [ ] Logic Building
+  - [ ] On anwsers
+  - [ ] FAQs
+  - [ ] 2D Arrays
+- [ ] Recursion
+  - [ ] Implementation Problems
+  - [ ] Subsequence Pattern Problems
+  - [ ] FAQs (Medium)
+  - [ ] Hard
+  - [ ] FAQs (Hard)
+- [ ] Linked-List
+  - [ ] Fundamentals (Single LL)
+  - [ ] Fundamentals (Doubly LL)
+  - [ ] Logic Building
+  - [ ] FAQs (Medium)
+  - [ ] FAQs (Hard)
+  - [ ] FAQs (DLL)
+- [ ] Bit Manipulation
+- [ ] Greedy Algorithms
+- [ ] Sliding Window / 2 Pointer
+- [ ] Stack / Queue
+- [ ] Binary Trees
+- [ ] Binary Search Trees
+- [ ] Heaps
+- [ ] Graphs
+- [ ] Dynamic Programming
+- [ ] Tries
+- [ ] Strings (Advanced Algo)
+- [ ] Maths
