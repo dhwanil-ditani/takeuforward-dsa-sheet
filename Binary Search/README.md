@@ -1,10 +1,10 @@
 # Binary Search
 
-- [ ] [Fundamentals](Binary%20Search/Fundamentals/)
-    - [ ] [Search X in sorted array](Binary%20Search/Fundamentals/Search%20X%20in%20sorted%20array/)
-    - [ ] [Lower Bound](Binary%20Search/Fundamentals/Lower%20Bound/)
-    - [ ] [Upper Bound](Binary%20Search/Fundamentals/Upper%20Bound/)
-- [ ] [Logic Building](Binary%20Search/Logic%20Building/)
+- [ ] [Fundamentals](Fundamentals/)
+    - [ ] [Search X in sorted array](Fundamentals/Search%20X%20in%20sorted%20array/)
+    - [ ] [Lower Bound](Fundamentals/Lower%20Bound/)
+    - [ ] [Upper Bound](Fundamentals/Upper%20Bound/)
+- [ ] [Logic Building](Logic%20Building/)
   - [ ] Search insert position
   - [ ] Floor and Ceil in Sorted Array
   - [ ] First and last occurrence
