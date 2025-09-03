@@ -4,27 +4,27 @@
     - [ ] [Search X in sorted array](Binary%20Search/Fundamentals/Search%20X%20in%20sorted%20array/)
     - [ ] [Lower Bound](Binary%20Search/Fundamentals/Lower%20Bound/)
     - [ ] [Upper Bound](Binary%20Search/Fundamentals/Upper%20Bound/)
-  - [ ] [Logic Building](Binary%20Search/Logic%20Building/)
-    - [ ] Search insert position
-    - [ ] Floor and Ceil in Sorted Array
-    - [ ] First and last occurrence
-    - [ ] Search in rotated sorted array-I
-    - [ ] Search in rotated sorted array-II
-    - [ ] Find minimum in Rotated Sorted Array
-    - [ ] Find out how many times the array is rotated
-    - [ ] Single element in sorted array
-  - [ ] [On anwsers](Binary%20Search/On%20answers/)
-    - [ ] Find square root of a number
-    - [ ] Find Nth root of a number
-    - [ ] Find the smallest divisor
-    - [ ] Koko eating bananas
-    - [ ] Minimum days to make M bouquets
-  - [ ] [FAQs](Binary%20Search/FAQs/)
-    - [ ] Aggressive Cows
-    - [ ] Book Allocation Problem
-    - [ ] Find peak element
-    - [ ] Median of 2 sorted arrays
-    - [ ] Kth element of 2 sorted arrays
-    - [ ] Minimize Max Distance to Gas Station
-    - [ ] Split array - largest sum
-  - [ ] [2D Arrays](Binary%20Search/2D%20Arrays/)
+- [ ] [Logic Building](Binary%20Search/Logic%20Building/)
+  - [ ] Search insert position
+  - [ ] Floor and Ceil in Sorted Array
+  - [ ] First and last occurrence
+  - [ ] Search in rotated sorted array-I
+  - [ ] Search in rotated sorted array-II
+  - [ ] Find minimum in Rotated Sorted Array
+  - [ ] Find out how many times the array is rotated
+  - [ ] Single element in sorted array
+- [ ] [On anwsers](Binary%20Search/On%20answers/)
+  - [ ] Find square root of a number
+  - [ ] Find Nth root of a number
+  - [ ] Find the smallest divisor
+  - [ ] Koko eating bananas
+  - [ ] Minimum days to make M bouquets
+- [ ] [FAQs](Binary%20Search/FAQs/)
+  - [ ] Aggressive Cows
+  - [ ] Book Allocation Problem
+  - [ ] Find peak element
+  - [ ] Median of 2 sorted arrays
+  - [ ] Kth element of 2 sorted arrays
+  - [ ] Minimize Max Distance to Gas Station
+  - [ ] Split array - largest sum
+- [ ] [2D Arrays](Binary%20Search/2D%20Arrays/)
