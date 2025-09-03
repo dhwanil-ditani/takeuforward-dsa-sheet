@@ -20,7 +20,7 @@
   - [ ] [FAQs (Hard)](Arrays/FAQs%20(Hard)/)
 - [ ] Hashing
   - [ ] FAQs
-- [ ] Binary Search
+- [ ] [Binary Search](Binary%20Search/)
   - [ ] [Fundamentals](Binary%20Search/Fundamentals/)
     - [ ] [Search X in sorted array](Binary%20Search/Fundamentals/Search%20X%20in%20sorted%20array/)
     - [ ] [Lower Bound](Binary%20Search/Fundamentals/Lower%20Bound/)
