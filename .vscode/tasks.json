@@ -1,0 +1,57 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"linux": {
+				"command": [
+					"javac",
+					"\"${file}\"",
+					"&&",
+					"java",
+					"-cp",
+					"\"${fileDirname}\"",
+					"${fileBasenameNoExtension}",
+					"<",
+					"input.txt",
+					">",
+					"output.txt",
+					"&&",
+					"rm",
+					"\"${fileDirname}/${fileBasenameNoExtension}.class\""
+				],
+				"options": {
+					"cwd": "${workspaceFolder}"
+				}
+			},
+			"group": {
+				"kind": "build",
+				"isDefault": "*.java"
+			},
+			"presentation": {
+				"echo": false,
+				"reveal": "silent",
+				"focus": false,
+				"panel": "new",
+				"showReuseMessage": false,
+				"clear": true,
+				"close": true
+			},
+			"problemMatcher": {
+				"owner": "java",
+				"fileLocation": [
+					"relative",
+					"${workspaceRoot}"
+				],
+				"pattern": {
+					"regexp": "^(.*\\.java):(\\d+):\\s+(error):\\s+(.*)$",
+					"file": 1,
+					"line": 2,
+					"severity": 3,
+					"message": 4
+				}
+			},
+			"label": "Compile and Run (Java)"
+		}
+	]
+}
