@@ -1,5 +1,6 @@
 {
     "window.commandCenter": false,
+    "workbench.iconTheme": "file-icons",
     "editor.fontFamily": "'JetBrains Mono','Fira Code', hack, 'Droid Sans Mono', 'monospace', monospace",
     "chat.disableAIFeatures": true
 }
