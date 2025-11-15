@@ -5,20 +5,8 @@
 			"type": "shell",
 			"linux": {
 				"command": [
-					"javac",
+					"./run.sh",
 					"\"${file}\"",
-					"&&",
-					"java",
-					"-cp",
-					"\"${fileDirname}\"",
-					"${fileBasenameNoExtension}",
-					"<",
-					"input.txt",
-					">",
-					"output.txt",
-					"&&",
-					"rm",
-					"\"${fileDirname}/${fileBasenameNoExtension}.class\""
 				],
 				"options": {
 					"cwd": "${workspaceFolder}"
