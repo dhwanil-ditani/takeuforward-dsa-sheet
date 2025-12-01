@@ -1,13 +1,14 @@
 {
     "window.commandCenter": false,
     "workbench.iconTheme": "file-icons",
-    "editor.fontFamily": "fira-code-nerd, FiraCode Nerd Font, 'JetBrains Mono','Fira Code', Consolas, 'Courier New', 'Droid Sans Mono', 'monospace', monospace",
     "editor.fontSize": 22,
+    "terminal.integrated.fontSize": 20,
     "chat.disableAIFeatures": true,
     "git.confirmSync": false,
     "git.autofetch": true,
     "redhat.telemetry.enabled": false,
     "java.server.launchMode": "LightWeight",
+    "workbench.colorTheme": "Default Dark Modern",
     "[jsonc]": {
         "editor.wordWrap": "on"
     }
