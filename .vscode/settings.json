@@ -2,5 +2,9 @@
     "terminal.integrated.defaultProfile.windows": "PowerShell",
     "redhat.telemetry.enabled": false,
     "java.server.launchMode": "LightWeight",
+    "chat.disableAIFeatures": true,
+    "editor.fontSize": 22,
+    "terminal.integrated.fontSize": 20,
+    "workbench.colorTheme": "Default Dark Modern",
     "editor.formatOnSave": true
 }
