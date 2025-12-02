@@ -6,5 +6,7 @@
     "editor.fontSize": 22,
     "terminal.integrated.fontSize": 20,
     "workbench.colorTheme": "Default Dark Modern",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "git.confirmSync": false,
+    "git.autofetch": true
 }
