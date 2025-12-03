@@ -10,7 +10,7 @@
     - [x] [Left Rotate Array by K Places](Arrays/Fundamentals/Left%20Rotate%20Array%20by%20K%20Places/)
   - [ ] Logic Building
     - [x] [Move Zeros to End](Arrays/Logic%20Building/Move%20Zeros%20to%20End/)
-    - [ ] [Remove duplicates from sorted array](Arrays/Logic%20Building/Remove%20duplicates%20from%20sorted%20array/)
+    - [x] [Remove duplicates from sorted array](Arrays/Logic%20Building/Remove%20duplicates%20from%20sorted%20array/)
     - [ ] Find missing number
     - [ ] Union of two sorted arrays
     - [ ] Intersection of two sorted arrays
