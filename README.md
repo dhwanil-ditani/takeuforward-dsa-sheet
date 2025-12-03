@@ -11,8 +11,8 @@
   - [ ] Logic Building
     - [x] [Move Zeros to End](Arrays/Logic%20Building/Move%20Zeros%20to%20End/)
     - [x] [Remove duplicates from sorted array](Arrays/Logic%20Building/Remove%20duplicates%20from%20sorted%20array/)
-    - [ ] Find missing number
-    - [ ] Union of two sorted arrays
+    - [x] [Find missing number](Arrays/Logic%20Building/Find%20missing%20number/)
+    - [ ] [Union of two sorted arrays](Arrays/Logic%20Building/Union%20of%20two%20sorted%20arrays/)
     - [ ] Intersection of two sorted arrays
   - [ ] FAQs(Medium)
   - [ ] FAQs(Hard)
