@@ -20,4 +20,6 @@
   - [ ] Fundamentals (Single LL)
   - [ ] Fundamentals (Doubly LL)
   - [ ] Logic Building
-    - [ ] Add two numbers in LL
+    - [x] [Add two numbers in LL](Linked-List/Logic%20Building/Add%20two%20numbers%20in%20LL/)
+    - [x] [Segregate odd and even nodes in LL](Linked-List/Logic%20Building/Segregate%20odd%20and%20even%20nodes%20in%20LL/)
+    - [ ] 
