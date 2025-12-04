@@ -22,4 +22,4 @@
   - [ ] Logic Building
     - [x] [Add two numbers in LL](Linked-List/Logic%20Building/Add%20two%20numbers%20in%20LL/)
     - [x] [Segregate odd and even nodes in LL](Linked-List/Logic%20Building/Segregate%20odd%20and%20even%20nodes%20in%20LL/)
-    - [ ] 
+    - [ ] Sort a LL of 0's 1's and 2's
