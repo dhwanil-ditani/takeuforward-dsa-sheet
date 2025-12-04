@@ -23,29 +23,30 @@ class ListNode {
 
 class Solution {
     public ListNode oddEvenList(ListNode head) {
+
+        if (head == null) return head;
+
         ListNode curr = head;
         ListNode result = new ListNode();
         ListNode currResult = result;
 
-        int i = 0;
         while (curr != null) {
-            if (i % 2 == 0) {
-                currResult.next = new ListNode(curr.val);
-                currResult = currResult.next;
-            }
+            currResult.next = new ListNode(curr.val);
+            currResult = currResult.next;
             curr = curr.next;
-            i++;
+            if (curr != null) {
+                curr = curr.next;
+            }
         }
 
-        curr = head;
-        i = 0;
+        curr = head.next;
         while (curr != null) {
-            if (i % 2 != 0) {
-                currResult.next = new ListNode(curr.val);
-                currResult = currResult.next;
-            }
+            currResult.next = new ListNode(curr.val);
+            currResult = currResult.next;
             curr = curr.next;
-            i++;
+            if (curr != null) {
+                curr = curr.next;
+            }
         }
 
         return result.next;
