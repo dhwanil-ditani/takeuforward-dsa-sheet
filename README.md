@@ -16,3 +16,8 @@
     - [ ] Intersection of two sorted arrays
   - [ ] FAQs(Medium)
   - [ ] FAQs(Hard)
+- [ ] Linked-List
+  - [ ] Fundamentals (Single LL)
+  - [ ] Fundamentals (Doubly LL)
+  - [ ] Logic Building
+    - [ ] Add two numbers in LL
