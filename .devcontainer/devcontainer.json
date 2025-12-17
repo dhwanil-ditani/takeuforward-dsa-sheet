@@ -13,6 +13,14 @@
 			"installGroovy": false,
 			"installMaven": false
 		}
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"HarshVandanaSharma.gkeep",
+				"vscode-icons-team.vscode-icons"
+			]
+		}
 	}
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
