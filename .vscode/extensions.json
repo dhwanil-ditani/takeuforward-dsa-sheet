@@ -1,6 +1,7 @@
 {
     "recommendations": [
         "harshvandanasharma.gkeep",
-        "vscjava.vscode-java-pack"
+        "vscjava.vscode-java-pack",
+        "vscode-icons-team.vscode-icons"
     ]
 }
